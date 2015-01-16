@@ -1,4 +1,4 @@
-package com.accenture.excelmanipulator.mapper;
+package com.itembriyo.excelmanipulator.mapper;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
